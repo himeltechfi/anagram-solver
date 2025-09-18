@@ -16,6 +16,10 @@ The program's core functionalities include:
 
 The code is well-commented and structured, demonstrating fundamental C++ concepts such as file I/O, string manipulation, and the use of modern libraries like `<chrono>` for precise timing.
 
+## Demo
+
+![Anagram-Solver Demo](https://imgur.com/yqPGj9I.png)
+
 ## How to Run
 
 1. **Clone this repository to your local machine.**
